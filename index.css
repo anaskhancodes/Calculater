@@ -82,20 +82,18 @@ body {
 
 @media only screen and (max-width: 375px) {
     .Calcuater input {
-        width: 318px;
+        width: 247px;
     }
 
     .Calcuater {
-        width: 350px;
-        height: 550px;
+        width: 280px;
     }
 
     .Calcuater .buttons button {
-        width: 58px;
-        height: 58px;
-        margin: 14px;
-        margin-left: 4px;
-        font-size: 23px;
+        width: 45px;
+        height: 45px;
+        margin: 5px;
+        font-size: 10px;
         font-weight: 700;
     }
 
